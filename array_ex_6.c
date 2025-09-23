@@ -1,3 +1,4 @@
+//find minimum element
 #include<stdio.h>
 
 
