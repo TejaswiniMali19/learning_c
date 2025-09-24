@@ -6,5 +6,4 @@ void main(){
 	printf("Enter your Full Name");
 //	scanf("%s",&name);
     gets(name);
-	printf("My Name is : %s",name);
 }

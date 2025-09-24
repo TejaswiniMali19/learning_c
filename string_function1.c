@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<string.h>
 
-int main()
+void main()
 {		
 	char name[20];
 	printf("enter your full name");

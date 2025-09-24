@@ -15,4 +15,4 @@ void main(){
 	else
 	printf("string are not Equal");
 	
-}
+}//incomplete
